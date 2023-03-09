@@ -68,6 +68,8 @@ body {
 }
 
 .header::after {
+    z-index: 99;
+	
     content: "";
     position: absolute;
     left: 0;
