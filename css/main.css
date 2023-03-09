@@ -115,7 +115,7 @@ body {
 
 .header__img img {
     position: absolute;
-    top: -200px;
+    top: -150px;
     right: -255px;
 
     max-width: unset;
@@ -804,7 +804,7 @@ footer a {
     }
 
     .header__img img {
-        top: -181px;
+        top: -150px;
         right: -256px;
     }
 
